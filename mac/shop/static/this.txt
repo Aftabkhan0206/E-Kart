@@ -1,0 +1,1 @@
+this is my statis file and i kniw how to use static files
